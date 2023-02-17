@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&display=swap');
+body{
+
+    background-color: hsl(30, 38%, 92%);
+    
+}
+.perfume{
+width:350px;
+height: 500px;
+text-align: center;
+border-radius: 10px;
+background-color: hsl(0, 0%, 100%);
+position: absolute;
+margin: auto 420px auto auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 10;
+border-top-left-radius: 0;
+border-bottom-left-radius: 0;
+}.image{
+    width:350px;
+    height: 500px;
+    text-align: center;
+    border-radius: 20px;
+    border-top-right-radius: 0;
+    background-color: hsl(0, 54%, 10%);
+    position: absolute;
+    margin: auto auto auto 420px;
+    top: 0;
+    right: 10;
+    bottom: 0;
+    left: 0;
+}
+.gla{
+    text-align: left;
+    margin: auto;
+    width: 65%;
+    font-family: 'Fraunces', serif;
+    position: relative;
+    top: 30px;
+    right: 8px;
+}
+.para{
+    width: 70%;
+    text-align: left;
+    margin: auto;
+    padding: 30px;
+    font-size: 14px;
+    line-height: 1.70;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 30px;
+    color: hsl(228, 12%, 48%);
+}
+.h1c{
+    text-align: left;
+    margin: auto;
+    width: 70%;
+    font-family: 'Fraunces', serif;
+    position: relative;
+    top: 30px;
+    color: hsl(158, 36%, 37%);
+}
+.dollar{
+    position: relative;
+    left: 40px;
+    bottom: 16.5px;
+    text-decoration: line-through;
+    color: hsl(158, 36%, 37%);
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    position: relative;
+    top: 35px;
+    left: 50px;
+    letter-spacing: 5px;
+    color: hsl(228, 12%, 48%);
+    
+}
+.aks{
+    border-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.cart {
+    background: hsl(158, 36%, 37%);
+    background-image: -webkit-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -moz-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -ms-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -o-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -webkit-gradient(to bottom, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    height: 12px;
+    line-height: 10px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    width: 200px;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 15px;
+    border: solid hsl(158, 36%, 37%) 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0;
+ }
+ 
+ .cart:hover {
+    border: solid hsl(212, 21%, 14%) 1px;
+    background: hsl(212, 21%, 14%);
+    background-image: -webkit-linear-gradient(top, hsl(212, 21%, 14%), hsl(212, 21%, 14%));
+    background-image: -moz-linear-gradient(top, hsl(212, 21%, 14%), hsl(212, 21%, 14%));
+    background-image: -ms-linear-gradient(top, hsl(212, 21%, 14%), hsl(212, 21%, 14%));
+    background-image: -o-linear-gradient(top, hsl(212, 21%, 14%), hsl(212, 21%, 14%));
+    background-image: -webkit-gradient(to bottom, hsl(212, 21%, 14%), hsl(212, 21%, 14%));
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    text-decoration: none;
+ }
+ .shop{
+    width: 25px;
+    height: 25px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 6.8rem;
+    bottom: 2.73rem;
+    
+ }
